@@ -23,3 +23,5 @@ This is a game which will test your memory. The challenge is to win the game by 
    jquery 
    
    animation.css
+   
+   It can be found at https://rahulbanerjee26.github.io/Memory-game/
